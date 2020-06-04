@@ -15,5 +15,5 @@ and register it and start your Quiz..
 
 => for admin access
  localhost/online-quiz/admin
- username = nisha@gmail.com
- password nisha123
+ username = admin@gmail.com
+ password admin123
